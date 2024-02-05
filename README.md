@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Vrinda 
+
+I'm a second year Computer Science student at King's College London.
+
+- I enjoy attending hackathons - you can check out some projects I've done in the past.
+- I'm currently working on a personal project launching this summer.
+- Reach out to me [here](www.linkedin.com/in/vrinda-chopra-8ab129253)!
 
 <!--
 **Vrinda-chopra/Vrinda-chopra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
