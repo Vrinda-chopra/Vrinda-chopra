@@ -3,7 +3,6 @@
 I'm a second year Computer Science student at King's College London.
 
 - 🌱 I enjoy attending hackathons - you can check out some projects I've done in the past.
-- 🔭 I'm currently working on a personal project launching this summer.
 - 📫 You can reach me [here](www.linkedin.com/in/vrinda-chopra-8ab129253)!
 
 <!--
