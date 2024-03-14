@@ -2,7 +2,8 @@
 
 I'm a second year Computer Science student at King's College London.
 
-- 📫 You can reach me [here](www.linkedin.com/in/vrinda-chopra-8ab129253)!
+- 🌱 I enjoy attending hackathons and developing web app projects, you can check out of some of my work here. 
+- 📫 Reach out to me on [LinkedIn](www.linkedin.com/in/vrinda-chopra-8ab129253)! <3
 
 <!--
 **Vrinda-chopra/Vrinda-chopra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
