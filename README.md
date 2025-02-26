@@ -1,5 +1,5 @@
-👋 Hi, I'm Vrinda. I'm a third year Computer Science student at King's College London.
-- 🌱 I enjoy attending hackathons and developing web app projects, you can check out of some of my work here. 
+👋 Hi, I'm Vrinda. I'm a final year Computer Science student at King's College London.
+- 🌱 I'm passionate about attending hackathons and developing web app projects. 
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/vrinda-chopra-8ab129253/)! <3
 
 <!--
