@@ -1,4 +1,4 @@
-👋 Hi, I'm Vrinda. I'm a final year Computer Science student at King's College London.
+👋 Hi, I'm Vrinda. I'm a Computer Science graduate from King's College London.
 - 🌱 I'm passionate about attending hackathons and developing web app projects. 
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/vrinda-chopra-8ab129253/)! <3
 
