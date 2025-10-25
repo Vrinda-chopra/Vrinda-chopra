@@ -1,6 +1,7 @@
-👋 Hi, I'm Vrinda. I'm a Computer Science graduate from King's College London.
-- 🌱 I'm passionate about attending hackathons and developing web app projects. 
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/vrinda-chopra-8ab129253/)! <3
+### Hi, I'm Vrinda!
+🎓 Computer Science grad from King's College London
+💚 Currently a Quant Tech intern @ Qube Research & Technologies
+🌱 Passionate about hackathons and web development. 
 
 <!--
 **Vrinda-chopra/Vrinda-chopra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
