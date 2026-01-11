@@ -1,6 +1,6 @@
 ### Hi, I'm Vrinda!
 🎓 Computer Science grad from King's College London <br>
-💚 Currently a Quant Tech intern @ Qube Research & Technologies <br>
+💚 Currently a Quant Tech Analyst @ Qube Research & Technologies <br>
 🌱 Passionate about hackathons and web development <br>
 
 <!--
